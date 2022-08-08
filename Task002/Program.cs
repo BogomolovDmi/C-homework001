@@ -22,4 +22,5 @@ if (number3 > numberMax)
 {
     numberMax = number3;
 }
+
 Console.WriteLine("Максимальное число" + numberMax);
